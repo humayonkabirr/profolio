@@ -235,6 +235,85 @@
 
 
 
+                <div class="grid grid-cols-2 gap-2 md:gap-4 md:grid-cols-3">
+                    <div class="p-4 py-6 border hover:shadow-lg border-slate-700">
+                        <div class="flex items-center justify-center py-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="80" height="64" viewBox="0 0 640 512">
+                                <path fill="#c55d07" d="M255.03 261.65c6.25 6.25 16.38 6.25 22.63 0l11.31-11.31c6.25-6.25 6.25-16.38 0-22.63L253.25 192l35.71-35.72c6.25-6.25 6.25-16.38 0-22.63l-11.31-11.31c-6.25-6.25-16.38-6.25-22.63 0l-58.34 58.34c-6.25 6.25-6.25 16.38 0 22.63zm96.01-11.3l11.31 11.31c6.25 6.25 16.38 6.25 22.63 0l58.34-58.34c6.25-6.25 6.25-16.38 0-22.63l-58.34-58.34c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63L386.75 192l-35.71 35.72c-6.25 6.25-6.25 16.38 0 22.63M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16M576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512zm-64 272H128V64h384z" />
+                            </svg>
+                        </div>
+
+                        <div class="text-center text-gray-300">
+                            <h1 class="text-2xl font-bold">Web Design</h1>
+                            <p>In nisi tortor, consequat eu semper ut, consequat in massa. Maecenas at odio a felis commodo pulvinar quis eu neque.</p>
+                        </div>
+                    </div>
+                    <div class="p-4 py-6 border hover:shadow-lg border-slate-700">
+                        <div class="flex items-center justify-center py-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="80" height="64" viewBox="0 0 640 512">
+                                <path fill="#c55d07" d="M255.03 261.65c6.25 6.25 16.38 6.25 22.63 0l11.31-11.31c6.25-6.25 6.25-16.38 0-22.63L253.25 192l35.71-35.72c6.25-6.25 6.25-16.38 0-22.63l-11.31-11.31c-6.25-6.25-16.38-6.25-22.63 0l-58.34 58.34c-6.25 6.25-6.25 16.38 0 22.63zm96.01-11.3l11.31 11.31c6.25 6.25 16.38 6.25 22.63 0l58.34-58.34c6.25-6.25 6.25-16.38 0-22.63l-58.34-58.34c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63L386.75 192l-35.71 35.72c-6.25 6.25-6.25 16.38 0 22.63M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16M576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512zm-64 272H128V64h384z" />
+                            </svg>
+                        </div>
+
+                        <div class="text-center text-gray-300">
+                            <h1 class="text-2xl font-bold">Web Development</h1>
+                            <p>In nisi tortor, consequat eu semper ut, consequat in massa. Maecenas at odio a felis commodo pulvinar quis eu neque.</p>
+                        </div>
+                    </div>
+                    <div class="p-4 py-6 border hover:shadow-lg border-slate-700">
+                        <div class="flex items-center justify-center py-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="80" height="64" viewBox="0 0 640 512">
+                                <path fill="#c55d07" d="M255.03 261.65c6.25 6.25 16.38 6.25 22.63 0l11.31-11.31c6.25-6.25 6.25-16.38 0-22.63L253.25 192l35.71-35.72c6.25-6.25 6.25-16.38 0-22.63l-11.31-11.31c-6.25-6.25-16.38-6.25-22.63 0l-58.34 58.34c-6.25 6.25-6.25 16.38 0 22.63zm96.01-11.3l11.31 11.31c6.25 6.25 16.38 6.25 22.63 0l58.34-58.34c6.25-6.25 6.25-16.38 0-22.63l-58.34-58.34c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63L386.75 192l-35.71 35.72c-6.25 6.25-6.25 16.38 0 22.63M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16M576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512zm-64 272H128V64h384z" />
+                            </svg>
+                        </div>
+
+                        <div class="text-center text-gray-300">
+                            <h1 class="text-2xl font-bold">UI/UX Design</h1>
+                            <p>In nisi tortor, consequat eu semper ut, consequat in massa. Maecenas at odio a felis commodo pulvinar quis eu neque.</p>
+                        </div>
+                    </div>
+                    <div class="p-4 py-6 border hover:shadow-lg border-slate-700">
+                        <div class="flex items-center justify-center py-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="80" height="64" viewBox="0 0 640 512">
+                                <path fill="#c55d07" d="M255.03 261.65c6.25 6.25 16.38 6.25 22.63 0l11.31-11.31c6.25-6.25 6.25-16.38 0-22.63L253.25 192l35.71-35.72c6.25-6.25 6.25-16.38 0-22.63l-11.31-11.31c-6.25-6.25-16.38-6.25-22.63 0l-58.34 58.34c-6.25 6.25-6.25 16.38 0 22.63zm96.01-11.3l11.31 11.31c6.25 6.25 16.38 6.25 22.63 0l58.34-58.34c6.25-6.25 6.25-16.38 0-22.63l-58.34-58.34c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63L386.75 192l-35.71 35.72c-6.25 6.25-6.25 16.38 0 22.63M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16M576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512zm-64 272H128V64h384z" />
+                            </svg>
+                        </div>
+
+                        <div class="text-center text-gray-300">
+                            <h1 class="text-2xl font-bold">App Design & Develop</h1>
+                            <p>In nisi tortor, consequat eu semper ut, consequat in massa. Maecenas at odio a felis commodo pulvinar quis eu neque.</p>
+                        </div>
+                    </div>
+                    <div class="p-4 py-6 border hover:shadow-lg border-slate-700">
+                        <div class="flex items-center justify-center py-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="80" height="64" viewBox="0 0 640 512">
+                                <path fill="#c55d07" d="M255.03 261.65c6.25 6.25 16.38 6.25 22.63 0l11.31-11.31c6.25-6.25 6.25-16.38 0-22.63L253.25 192l35.71-35.72c6.25-6.25 6.25-16.38 0-22.63l-11.31-11.31c-6.25-6.25-16.38-6.25-22.63 0l-58.34 58.34c-6.25 6.25-6.25 16.38 0 22.63zm96.01-11.3l11.31 11.31c6.25 6.25 16.38 6.25 22.63 0l58.34-58.34c6.25-6.25 6.25-16.38 0-22.63l-58.34-58.34c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63L386.75 192l-35.71 35.72c-6.25 6.25-6.25 16.38 0 22.63M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16M576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512zm-64 272H128V64h384z" />
+                            </svg>
+                        </div>
+
+                        <div class="text-center text-gray-300">
+                            <h1 class="text-2xl font-bold">Graphic Design</h1>
+                            <p>In nisi tortor, consequat eu semper ut, consequat in massa. Maecenas at odio a felis commodo pulvinar quis eu neque.</p>
+                        </div>
+                    </div>
+                    <div class="p-4 py-6 border hover:shadow-lg border-slate-700">
+                        <div class="flex items-center justify-center py-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="80" height="64" viewBox="0 0 640 512">
+                                <path fill="#c55d07" d="M255.03 261.65c6.25 6.25 16.38 6.25 22.63 0l11.31-11.31c6.25-6.25 6.25-16.38 0-22.63L253.25 192l35.71-35.72c6.25-6.25 6.25-16.38 0-22.63l-11.31-11.31c-6.25-6.25-16.38-6.25-22.63 0l-58.34 58.34c-6.25 6.25-6.25 16.38 0 22.63zm96.01-11.3l11.31 11.31c6.25 6.25 16.38 6.25 22.63 0l58.34-58.34c6.25-6.25 6.25-16.38 0-22.63l-58.34-58.34c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63L386.75 192l-35.71 35.72c-6.25 6.25-6.25 16.38 0 22.63M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16M576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512zm-64 272H128V64h384z" />
+                            </svg>
+                        </div>
+
+                        <div class="text-center text-gray-300">
+                            <h1 class="text-2xl font-bold">SEO Marketing</h1>
+                            <p>In nisi tortor, consequat eu semper ut, consequat in massa. Maecenas at odio a felis commodo pulvinar quis eu neque.</p>
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+
 
             </div>
         </div>
@@ -242,6 +321,38 @@
 
 
 
+    <section class="w-full bg-slate-900">
+        <div class="px-2 mx-auto max-w-7xl sm:px-6 lg:px-8">
+            <div class="w-full py-16 space-x-2">
+
+                <div class="py-4 text-center">
+                    <h1 class="text-2xl font-bold text-gray-300">ANY QUESTION YOU HAVE</h1>
+                    <p class="py-6 text-6xl font-bold text-gray-200">
+                        +0158 852 1252
+                    </p>
+
+                    <a class="px-4 py-2 border rounded-lg bg-slate-950 border-slate-600 text-slate-200" href="">MAKE ME</a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="w-full">
+        <div class="px-2 mx-auto max-w-7xl sm:px-6 lg:px-8">
+            <div class="w-full space-x-2">
+
+                <div class="py-4 text-center text-slate-300">
+                    <p>
+                        © 2021 Kabir, All Rights Reserved.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </section>
 
 
 </body>
