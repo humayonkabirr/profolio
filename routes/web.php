@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('index');
 });
 
+Route::get('/auth0', function () {
+    return view('layout.main');
+});
+
 Route::middleware([
     'auth:sanctum',
     config('jetstream.auth_session'),
