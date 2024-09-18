@@ -2,6 +2,7 @@
 
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Frontend\TemplateController;
 use Inertia\Inertia;
 
 // Route::get('/', function () {
@@ -13,13 +14,15 @@ use Inertia\Inertia;
 //     ]);
 // });
 
-// Route::get('/', function () {
-//     return view('index');
-// });
+route::get('/',[TemplateController::class,'index'])->name('home');
+route::get('/about',[TemplateController::class, 'about'])->name('about');
+route::get('/service',[TemplateController::class,'service'])->name('service');
+route::get('/portfolio',[TemplateController::class,'portfolio'])->name('portfolio');
+route::get('/blog',[TemplateController::class,'blog'])->name('blog');
+route::get('/blog-details',[TemplateController::class,'blogDetails'])->name('blogDetails');
+route::get('/contact',[TemplateController::class,'contact'])->name('contact');
 
-Route::get('/auth0', function () {
-    return view('layout.main');
-});
+
 
 Route::middleware([
     'auth:sanctum',
